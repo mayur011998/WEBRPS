@@ -1,2 +1,1 @@
-# WEBRPS
-WEBRPS
+# rock-paper-scissor
